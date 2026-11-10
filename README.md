@@ -1,14 +1,14 @@
 # 👋 Hey, I'm Hammad Bhatti
 
-### 🚀 Software Engineering Student | AI/ML Enthusiast | Full Stack & Flutter Developer
+###  Software Engineering Student | AI/ML Enthusiast | Full Stack & Flutter Developer
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Turning+Ideas+Into+Software+%F0%9F%9A%80;Exploring+AI+%26+Machine+Learning+%F0%9F%A4%96;Building+Web+%26+Mobile+Applications+%F0%9F%93%B1;Future+Software+Engineer+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/hammadbhatti">
-    <img src="https://img.shields.io/badge/GitHub-hammadbhatti-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  <a href="https://github.com/hammadbhatti7">
+    <img src="https://img.shields.io/badge/GitHub-hammadbhatti7-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
   <img src="https://img.shields.io/badge/BS-Software%20Engineering-blue?style=for-the-badge" alt="Software Engineering"/>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-2ea44f?style=for-the-badge" alt="Career opportunities"/>
@@ -167,6 +167,5 @@ I'm interested in learning from other developers, collaborating on projects, and
 
 <p align="center">
   <b>Thanks for visiting my profile! ⭐</b><br/>
-  If you find something interesting, explore my repositories and follow my journey.<br/><br/>
-  <i>Keep learning. Keep building. Keep improving. 🚀</i>
+ 
 </p>
